@@ -1,6 +1,8 @@
 
 /*
- * Die Datei kann auch mit Deno ausgeführt werden.
+ * Die Datei kann auch mit Deno ausgeführt werden, obwohl
+ * der Variable `variable` erst ein `number`-Wert und dann
+ * ein `string`-Wert zugewiesen wird.
  */
 
 
