@@ -15,6 +15,10 @@
  * ```
  * deno run --allow-all Tastatureingabe_StringlaengeAusgeben.ts
  * ```
+ *
+ * JavaScript-Version dieser Datei, die von deno in seinem Cache-Verzeichnis
+ * abgelegt wird:
+ * https://gist.github.com/MDecker-MobileComputing/9be05d066805976e58f83a7fd003be35
  */
 
 import readlineSync from "npm:readline-sync";
